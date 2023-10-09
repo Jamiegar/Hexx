@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538dc1ec766aa494ea1c0a8bb8f7c640, type: 3}
+  m_Name: Ocean
+  m_EditorClassIdentifier: 
+  Name: Ocean
+  Clip: {fileID: 8300000, guid: 870f2fea7f7978347a833f3505145107, type: 3}
+  Volume: 0.7
+  Pitch: 1
+  Loop: 1
+  source: {fileID: 0}
+  MixerGroup: {fileID: 24300002, guid: bf9296404f7e20f47baa134a942a9d4f, type: 2}
+  PitchChange: 0

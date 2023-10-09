@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74acefa36efaf9542b93eabbb07b2090, type: 3}
+  m_Name: LargeMountin
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5791626588219271041, guid: 27acecbc77239b345983a6054f076e02, type: 3}
+  height: 0.7
+  canHaveStructures: 1
+  AudioOnTile: {fileID: 11400000, guid: 51a7c26fe3fce594a83975721201762b, type: 2}

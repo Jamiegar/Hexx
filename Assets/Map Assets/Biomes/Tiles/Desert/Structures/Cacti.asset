@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3deb604933bdc946bd4baf8537b4075, type: 3}
+  m_Name: Cacti
+  m_EditorClassIdentifier: 
+  m_noiseValue: 0.8
+  percentageChanceOfSpawn: 0.1
+  m_singleTileStructure: 0
+  m_replaceTile: 0
+  m_randomRotation: 1
+  prefabs:
+  - {fileID: 1557201960472778, guid: 6dee437bc869aa14b9c3e6b4a61053c1, type: 3}
+  - {fileID: 1785485909256282, guid: 9ff626153a90e5c4481c4c31d785e108, type: 3}

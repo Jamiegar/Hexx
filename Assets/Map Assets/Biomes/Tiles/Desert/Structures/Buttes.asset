@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3deb604933bdc946bd4baf8537b4075, type: 3}
+  m_Name: Buttes
+  m_EditorClassIdentifier: 
+  m_noiseValue: 0.5
+  percentageChanceOfSpawn: 0.05
+  m_singleTileStructure: 1
+  m_replaceTile: 0
+  m_randomRotation: 1
+  prefabs:
+  - {fileID: 1832554251982410, guid: 4d27419b823ad6a4b91a0496f637785e, type: 3}
+  - {fileID: 1794439618809250, guid: 624f971d86f574f4684d8ca8dbcc7fd1, type: 3}
+  - {fileID: 1285704691523336, guid: 0fee0a1e717995c4e939e850789ba676, type: 3}

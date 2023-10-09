@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3892f768127475408b8f0e746eeafef, type: 3}
+  m_Name: Ocean
+  m_EditorClassIdentifier: 
+  tilesInBiome:
+  - {fileID: 11400000, guid: 2f8d31c746601f844b8f6aef4325598b, type: 2}
+  - {fileID: 11400000, guid: f1718534ca5bebb40aa3e604a49fecb1, type: 2}
+  structures:
+  - {fileID: 11400000, guid: d6a8b9c8f467c024badaca7f2f323958, type: 2}
+  - {fileID: 11400000, guid: 8046feaf65394954685b362a9bc623cf, type: 2}
+  noiseValue: 0.1
+  biomeHeight: 0
+  BiomeMaterial: {fileID: 2100000, guid: a16b7b85a356b7d469067849a165dcff, type: 2}

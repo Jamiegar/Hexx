@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3deb604933bdc946bd4baf8537b4075, type: 3}
+  m_Name: Islands
+  m_EditorClassIdentifier: 
+  m_noiseValue: 0
+  percentageChanceOfSpawn: 0.015
+  m_singleTileStructure: 1
+  m_replaceTile: 1
+  m_randomRotation: 0
+  prefabs:
+  - {fileID: 1990134539978176, guid: 654498c8b5c4ef64384d848742d6c4e1, type: 3}
+  - {fileID: 1688477958502864, guid: 60c48c7fa7d5ca042b69471ced14c62e, type: 3}
+  - {fileID: 1028929502668492, guid: e499751c4b88a6847844b1030ad4bca2, type: 3}
